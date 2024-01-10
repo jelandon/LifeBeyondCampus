@@ -224,3 +224,13 @@ h4 {
 #article main p {
     font-size: 14px;
 }
+
+.container {
+    display: flex;
+    width: 360px;
+    overflow: hidden;
+}
+
+.container article {
+    padding-right: 1rem;
+}
